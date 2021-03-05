@@ -1,0 +1,16 @@
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\Estimate Calculator.csprojAssemblyReference.cache
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\Estimate Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\Estimate Calculator.AssemblyInfoInputs.cache
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\Estimate Calculator.AssemblyInfo.cs
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\Estimate Calculator.csproj.CoreCompileInputs.cache
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\bin\Debug\net5.0\Estimate Calculator.exe
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\bin\Debug\net5.0\Estimate Calculator.deps.json
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\bin\Debug\net5.0\Estimate Calculator.runtimeconfig.json
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\bin\Debug\net5.0\Estimate Calculator.runtimeconfig.dev.json
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\bin\Debug\net5.0\Estimate Calculator.dll
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\bin\Debug\net5.0\ref\Estimate Calculator.dll
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\bin\Debug\net5.0\Estimate Calculator.pdb
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\Estimate Calculator.dll
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\ref\Estimate Calculator.dll
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\Estimate Calculator.pdb
+C:\Users\niurb\OneDrive\Documents\Projects\Estimate Calculator\obj\Debug\net5.0\Estimate Calculator.genruntimeconfig.cache
